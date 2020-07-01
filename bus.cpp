@@ -219,6 +219,15 @@ int main()
 	}
 	totalSeat=totalSeat-a.familyMember;
 	cout<<"total seat"<<totalSeat<<endl;
+	
+	
+	cout<<endl;
+    cout<<"1 --> man"<<endl;
+	cout<<"2 --> boy"<<endl;
+	cout<<"3 -->women"<<endl;
+	cout<<"4 -->girl"<<endl;
+	cout<<"5 -->differntlyAbledFemale"<<endl;
+	cout<<"6 -->differntlyAbledMale"<<endl;
 	}
 	
 
